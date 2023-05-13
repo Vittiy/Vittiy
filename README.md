@@ -3,8 +3,7 @@ I'm Vitti ! I do cool projects.
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/Vittiy/readme-stats/blob/master/generated/overview.svg)
-![](https://github.com/Vittiy/readme-stats/blob/master/generated/languages.svg)
+[![VITTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittiy)](https://github.com/anuraghazra/github-readme-stats)
 
 </a>
 
