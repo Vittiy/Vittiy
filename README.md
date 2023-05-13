@@ -2,7 +2,7 @@
 I'm Vitti ! I do cool projects.
 
   
-[![VITTI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vittiy)](https://github.com/anuraghazra/github-readme-stats)
+[![VITTI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vitti)](https://github.com/anuraghazra/github-readme-stats)
 
 ![VITTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittiy&show_icons=true&theme=radical)
   
