@@ -2,7 +2,7 @@
 I'm Vitti ! I do cool projects.
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vittiy&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vittiy&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![VITTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vittiy&show_icons=true&theme=radical)
   
