@@ -10,7 +10,7 @@ I'm Vitti ! I do cool projects.
 
 </a>
 
-## Tools I work with
+## Tools I work with (:
 
 ### Languages
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
